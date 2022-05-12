@@ -13,7 +13,7 @@
   
  
 <div>   
-  <a href="https://orcid.org/my-orcid?orcid=0000-0003-3245-5141/" target="_blank"><img src="https://orcid.org/assets/vectors/orcid.logo.sv" target="_blank"></a> 
+  <a href="https://orcid.org/my-orcid?orcid=0000-0003-3245-5141/" target="_blank"><img src="https://orcid.org/assets/vectors/orcid.logo.svg" target="_blank"></a> 
   <a href="http://lattes.cnpq.br/8291123108448027/" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%23E4405F?style=for-the-badge&logoColor=white" target="_blank"></a>
   <a href = "mailto:regivaldo.ferreira@ifsp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/regivaldo-sousa-723680157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
