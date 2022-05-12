@@ -18,7 +18,7 @@
   <a href = "mailto:regivaldo.ferreira@ifsp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/regivaldo-sousa-723680157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-    <a href="https://orcid.org/my-orcid?orcid=0000-0003-3245-5141/" target="_blank"><img src=" https://orcid.org/assets/vectors/orcid.logo.icon.svg" target="_blank"></a> 
+    <a href="https://orcid.org/my-orcid?orcid=0000-0003-3245-5141/" target="_blank"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" target="_blank"></a> 
  
 
   
