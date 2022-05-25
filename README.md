@@ -1,4 +1,4 @@
-### Wellcome 👋
+### Welcome 👋
 
 <div align="center">
   <a href="https://github.com/regivaldo717">
